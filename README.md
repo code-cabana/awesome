@@ -13,6 +13,8 @@ Everything listed here is 100% free unless otherwise noted
 - [Coolors](https://coolors.co/) - Colour palette generator
 - [Boxy SVG](https://boxy-svg.com/) - Web-based SVG editor
 - [Adobe Color a11y](https://color.adobe.com/create/color-accessibility) - Accessible colour scheme creator
+- [Figma](https://www.figma.com/) - Full featured design & mockup tool
+- [Zeplin](https://zeplin.io/) - Full featured designer <-> developer collaboration tool
 
 ### Dev
 
