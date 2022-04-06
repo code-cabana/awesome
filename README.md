@@ -14,6 +14,7 @@ Tools assist development efforts in some way
 - [Excalidraw](https://excalidraw.com/) - Whiteboard/diagram creator with a hand drawn feel
 - [Coolors](https://coolors.co/) - Colour palette generator
 - [Boxy SVG](https://boxy-svg.com/) - Web-based SVG editor
+- [Adobe Color a11y](https://color.adobe.com/create/color-accessibility) - Accessible colour scheme creator
 
 ### Dev
 
@@ -21,6 +22,9 @@ Tools assist development efforts in some way
 - [Bundlephobia](https://bundlephobia.com/) - Check the weight of an npm module before adding it to your project
 - [Skypack](https://www.skypack.dev/) - Load npm modules without a bundler
 - [TinaCMS](https://github.com/tinacms/tinacms) - Add a content-editor overlay to your React/NextJS website and connect it to a CMS backend of your choice
+- [env-cmd](https://github.com/toddbluhm/env-cmd) - Make env file variables available to npm scripts
+- [shx](https://github.com/shelljs/shx) - Run unix commands in npm scripts
+- [shelljs](https://github.com/shelljs/shelljs) - Run unix commands in Node.js
 
 ### Assets
 
@@ -33,14 +37,19 @@ Tools assist development efforts in some way
 
 Frameworks accelerate development by providing features/patterns/conventions that applications typically desire
 
+### Web
+
 - [React](https://reactjs.org/) - JavaScript library for building user interfaces. Ushered in a new era of web dev
 - [Preact](https://preactjs.com/) - Tiny version of React
 - [NextJS](https://nextjs.org/) - "The React framework for production"; takes care of many no-brainer features you will want anyway e.g. SSR, API routes etc.
 - [Svelte](https://svelte.dev/) - Reactivity of React but without the virtual DOM, which results in many performance benefits
 - [Svelte Kit](https://kit.svelte.dev/) - Application boilerplate for Svelte projects
-- [Tauri](https://tauri.studio/) - Build native desktop applications with a webview frontend. Gives you a smaller output compared to alternatives like Electron that bundle a NodeJS interpreter inside the output binary
 - [Atomico](https://atomicojs.github.io/) - Create webcomponents using React patterns
 
+### Native
+
+- [Expo](https://expo.dev/) - Create native mobile apps using web technologies
+- [Tauri](https://tauri.studio/) - Build native desktop applications with a web frontend. Smaller output compared to alternatives like Electron
 
 ## 📦 Bundlers
 
