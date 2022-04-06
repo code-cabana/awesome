@@ -1,6 +1,6 @@
 # CC &middot; Awesome [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A list of awesome software tools that help us ([Code Cabana](https://www.codecabana.com.au/)) deliver web dev projects :palm_tree:  
+A list of awesome software tools that help us ([Code Cabana](https://www.codecabana.com.au/)) deliver projects :palm_tree:  
 Everything listed here is 100% free unless otherwise noted
 
 ## 🔨 Tools
