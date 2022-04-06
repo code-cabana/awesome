@@ -1,11 +1,9 @@
-# Code Cabana > Awesome [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# CC &middot; Awesome [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A list of awesome software tools that help us (Code Cabana) deliver web dev projects quicker and spend more time at the beach :palm_tree:  
+A list of awesome software tools that help us ([Code Cabana](https://www.codecabana.com.au/)) deliver web dev projects :palm_tree:  
 Everything listed here is 100% free unless otherwise noted
 
 ## 🔨 Tools
-
-Tools assist development efforts in some way
 
 ### Design / planning
 
@@ -35,8 +33,6 @@ Tools assist development efforts in some way
 
 ## 💎 Frameworks
 
-Frameworks accelerate development by providing features/patterns/conventions that applications typically desire
-
 ### Web
 
 - [React](https://reactjs.org/) - JavaScript library for building user interfaces. Ushered in a new era of web dev
@@ -52,8 +48,6 @@ Frameworks accelerate development by providing features/patterns/conventions tha
 - [Tauri](https://tauri.studio/) - Build native desktop applications with a web frontend. Smaller output compared to alternatives like Electron
 
 ## 📦 Bundlers
-
-Bundlers package your code and make it ready for end users  
 
 - [esbuild](https://esbuild.github.io/) - "An extremely fast JavaScript bundler". Many modern app bundlers use this under the hood
 - [Vite](https://vitejs.dev/) - Modern javascript bundling for application development purposes
