@@ -18,14 +18,24 @@ Everything listed here is 100% free unless otherwise noted
 
 ### Dev
 
-- [Glitch](https://glitch.com/) - Build proof-of-concept apps or APIs from your browser
+- [Glitch](https://glitch.com/) - Build NodeJS apps or APIs from your browser
+- [Stackblitz](https://stackblitz.com/) - Same as Glitch, but with a serious appearance
 - [Ngrok](https://ngrok.com/) - Expose your local environment at a public URL. Useful for mobile device testing without needing to deploy
-- [Bundlephobia](https://bundlephobia.com/) - Check the weight of an npm module before adding it to your project
-- [Skypack](https://www.skypack.dev/) - Load npm modules without a bundler
 - [TinaCMS](https://github.com/tinacms/tinacms) - Add a content-editor overlay to your React/NextJS website and connect it to a CMS backend of your choice
-- [env-cmd](https://github.com/toddbluhm/env-cmd) - Make env file variables available to npm scripts
+
+#### NPM
+
+- [Bundlephobia](https://bundlephobia.com/) - Check the weight of an npm module before adding it to your project
+- [Skypack](https://www.skypack.dev/) - Load npm modules from NPM without a bundler
+
+#### Toolchain
+
+- [npm-run-all](https://github.com/mysticatea/npm-run-all) - Run npm scripts in sequence or simultaneously
 - [shx](https://github.com/shelljs/shx) - Run unix commands in npm scripts
 - [shelljs](https://github.com/shelljs/shelljs) - Run unix commands in Node.js
+- [esr](https://github.com/folke/esbuild-runner) - Run ESM files without transpiling first
+- [env-cmd](https://github.com/toddbluhm/env-cmd) - Make env file variables available to npm scripts
+- [cross-env](https://github.com/kentcdodds/cross-env) - Define environment variables inline in npm scripts in a cross-platform way
 
 ### Assets
 
@@ -53,5 +63,7 @@ Everything listed here is 100% free unless otherwise noted
 ## 📦 Bundlers
 
 - [esbuild](https://esbuild.github.io/) - "An extremely fast JavaScript bundler". Many modern app bundlers use this under the hood
-- [Vite](https://vitejs.dev/) - Modern javascript bundling for application development purposes
-- [Snowpack](https://www.snowpack.dev/) - Alternative to Vite with a cool name
+- [Vite](https://vitejs.dev/) - Application bundler from the creator of Vue.js
+- [Snowpack](https://www.snowpack.dev/) - Application bundler with a cool name
+- [Microbundle](https://github.com/developit/microbundle) - Zero config app/library bundler powered by Rollup
+- [Rollup](https://rollupjs.org/guide/en/) - Old faithful app/library bundler by the creator of Svelte
