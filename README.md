@@ -67,3 +67,4 @@ Everything listed here is 100% free unless otherwise noted
 - [Snowpack](https://www.snowpack.dev/) - Application bundler with a cool name
 - [Microbundle](https://github.com/developit/microbundle) - Zero config app/library bundler powered by Rollup
 - [Rollup](https://rollupjs.org/guide/en/) - Old faithful app/library bundler by the creator of Svelte
+- [Bundle Buddy](https://www.bundle-buddy.com/) - Visualizes what code is in your web bundle, and how it got there
