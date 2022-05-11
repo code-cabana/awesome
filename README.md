@@ -63,6 +63,7 @@ Everything listed here is 100% free unless otherwise noted
 ## 📦 Bundlers
 
 - [esbuild](https://esbuild.github.io/) - "An extremely fast JavaScript bundler". Many modern app bundlers use this under the hood
+- [tsup](https://tsup.egoist.sh/) - Typescript or Javascript bundler powered by esbuild
 - [Vite](https://vitejs.dev/) - Application bundler from the creator of Vue.js
 - [Snowpack](https://www.snowpack.dev/) - Application bundler with a cool name
 - [Microbundle](https://github.com/developit/microbundle) - Zero config app/library bundler powered by Rollup
