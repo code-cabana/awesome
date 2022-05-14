@@ -43,6 +43,7 @@ Everything listed here is 100% free unless otherwise noted
 - [Placeholder.com](https://placeholder.com/) - Placeholder image `src` URL
 - [Unsplash](https://unsplash.com/) - Freely available photography assets
 - [SVG repo](https://www.svgrepo.com/) - Freely available SVG icons
+- [Emoji picker](https://www.freetool.dev/emoji-picker) - Handy twitter emoji picker with hosted urls
 
 ## 💎 Frameworks
 
