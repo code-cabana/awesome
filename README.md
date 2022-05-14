@@ -44,6 +44,7 @@ Everything listed here is 100% free unless otherwise noted
 - [Unsplash](https://unsplash.com/) - Freely available photography assets
 - [SVG repo](https://www.svgrepo.com/) - Freely available SVG icons
 - [Emoji picker](https://www.freetool.dev/emoji-picker) - Handy twitter emoji picker with hosted urls
+- [useHooks](https://usehooks.com/) - Code snippets for commonly needed react hooks
 
 ## 💎 Frameworks
 
