@@ -36,6 +36,7 @@ Everything listed here is 100% free unless otherwise noted
 - [esr](https://github.com/folke/esbuild-runner) - Run ESM files without transpiling first
 - [env-cmd](https://github.com/toddbluhm/env-cmd) - Make env file variables available to npm scripts
 - [cross-env](https://github.com/kentcdodds/cross-env) - Define environment variables inline in npm scripts in a cross-platform way
+- [envinfo](https://github.com/tabrindle/envinfo) - Print troubleshooting information about the current environment
 
 ### Assets
 
