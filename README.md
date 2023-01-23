@@ -34,6 +34,7 @@ Everything listed here is 100% free unless otherwise noted
 - [shx](https://github.com/shelljs/shx) - Run unix commands in npm scripts
 - [shelljs](https://github.com/shelljs/shelljs) - Run unix commands in Node.js
 - [esr](https://github.com/folke/esbuild-runner) - Run ESM files without transpiling first
+- [dotenv-flow](https://github.com/kerimdzhanov/dotenv-flow) - Load environment variables from multiple `.env*` files
 - [env-cmd](https://github.com/toddbluhm/env-cmd) - Make env file variables available to npm scripts
 - [cross-env](https://github.com/kentcdodds/cross-env) - Define environment variables inline in npm scripts in a cross-platform way
 - [envinfo](https://github.com/tabrindle/envinfo) - Print troubleshooting information about the current environment
